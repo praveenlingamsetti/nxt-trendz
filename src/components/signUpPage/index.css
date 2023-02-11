@@ -1,0 +1,21 @@
+.submit-form-container {
+  display: flex;
+  width: 35vw;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: bisque;
+  background-size: cover;
+}
+.submit-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  height: 100vh;
+}
+.login-button-submit {
+  width: 90px;
+  color: blue;
+}
